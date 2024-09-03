@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+table{
+    border-collapse: collapse;
+    box-shadow: 1px 1px 1px 1px gray;
+    margin: 36px auto;
+    width: 100%;
+}
+
+table td {
+    border-bottom: 1px solid gray;
+    padding: 10px 10px;
+}
+.sem {
+    font-weight: 700;
+    text-align: center;  
+    background-color: rgb(132, 226, 230);
+    color: rgb(37, 37, 36);
+}
+
+.semi-header td {
+    font-weight: 500;
+}
+
+table td {
+    border: 1px solid ;
+    background-color:rgb(44, 198, 236) ;
+}
+
+.class{
+    font-weight: 600; 
+    background-color:rgb(226, 230, 235)
+}
+
+.progress td{
+    background-color: yellow;
+}
+
+.ongoing td{
+    background-color: rgb(248, 244, 239);
+}
+
+
